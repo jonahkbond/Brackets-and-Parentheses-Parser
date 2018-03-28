@@ -1,0 +1,4 @@
+Readme Jonah Bond
+Compile: g++ -o bond_proj2 bond_proj2.cpp 
+run:
+Type:  ./bond_proj2
